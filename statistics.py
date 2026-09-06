@@ -1,0 +1,5 @@
+t=(10,20,30,40,50)
+print("minimum:",min(t))
+print("maximum:",max(t))
+print("sum:",sum(t))
+print("average:",sum(t)/len(t))
